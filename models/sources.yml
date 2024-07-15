@@ -12,3 +12,5 @@ sources:
       tables:
           - name: customers
             description: One record per customer.
+            tests:
+              - not_empty
