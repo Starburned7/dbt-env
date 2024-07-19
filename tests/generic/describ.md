@@ -1,4 +1,4 @@
-{% docs table_events %}
+{% docs test_not_empty%}
 
 
 ### Test describtion
