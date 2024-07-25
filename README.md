@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Welcome to your new dbt project! We test some stuff right now just for fun
+=======
+Welcome to your new dbt project! We test some stuff right now for fun
+>>>>>>> 2d18752c0c61547d3192c8f999c5ff7f278c93ab
 
 ### Using the starter project
 
